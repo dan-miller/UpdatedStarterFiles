@@ -1,0 +1,101 @@
+Hurricane IAN
+Storm Activity: 9/23/2022 - 10/1/2022
+Date		Time 		Lat 	Lon 	Wind(mph)	Pressure(mb)	Storm Type
+9/23/2022	5:00:00 AM	13.90	-68.60	35	1006	Tropical Depression
+9/23/2022	11:00:00 AM	14.20	-70.10	35	1006	Tropical Depression
+9/23/2022	5:00:00 PM	14.70	-71.30	35	1006	Tropical Depression
+9/23/2022	8:00:00 PM	14.80	-71.50	35	1006	Tropical Depression
+9/23/2022	11:00:00 PM	14.80	-72.00	40	1005	Tropical Storm
+9/24/2022	2:00:00 AM	14.70	-72.90	40	1005	Tropical Storm
+9/24/2022	5:00:00 AM	14.70	-73.50	46	1003	Tropical Storm
+9/24/2022	8:00:00 AM	14.20	-74.50	46	1004	Tropical Storm
+9/24/2022	11:00:00 AM	14.40	-75.20	46	1003	Tropical Storm
+9/24/2022	2:00:00 PM	14.20	-75.80	46	1003	Tropical Storm
+9/24/2022	5:00:00 PM	14.30	-77.00	46	1003	Tropical Storm
+9/24/2022	8:00:00 PM	14.60	-77.10	46	1002	Tropical Storm
+9/24/2022	11:00:00 PM	14.70	-77.70	52	1002	Tropical Storm
+9/25/2022	2:00:00 AM	14.70	-78.30	52	1002	Tropical Storm
+9/25/2022	5:00:00 AM	14.90	-78.80	52	1002	Tropical Storm
+9/25/2022	8:00:00 AM	15.00	-79.40	52	1001	Tropical Storm
+9/25/2022	11:00:00 AM	15.20	-79.80	52	1001	Tropical Storm
+9/25/2022	2:00:00 PM	15.70	-80.00	52	1001	Tropical Storm
+9/25/2022	5:00:00 PM	16.20	-80.30	46	1003	Tropical Storm
+9/25/2022	8:00:00 PM	17.00	-80.80	58	991	Tropical Storm
+9/25/2022	11:00:00 PM	17.30	-81.40	63	989	Tropical Storm
+9/26/2022	2:00:00 AM	17.70	-81.70	69	988	Tropical Storm
+9/26/2022	5:00:00 AM	18.20	-82.00	75	983	Category 1 Hurricane
+9/26/2022	8:00:00 AM	18.70	-82.40	75	981	Category 1 Hurricane
+9/26/2022	11:00:00 AM	19.10	-82.70	81	980	Category 1 Hurricane
+9/26/2022	2:00:00 PM	19.70	-83.00	86	976	Category 1 Hurricane
+9/26/2022	5:00:00 PM	20.30	-83.20	98	972	Category 2 Hurricane
+9/26/2022	8:00:00 PM	20.80	-83.30	98	965	Category 2 Hurricane
+9/26/2022	11:00:00 PM	21.30	-83.40	104	962	Category 2 Hurricane
+9/27/2022	2:00:00 AM	21.70	-83.60	109	958	Category 2 Hurricane
+9/27/2022	2:30:00 AM	21.90	-83.60	115	956	Category 3 Major Hurricane
+9/27/2022	4:30:00 AM	22.20	-83.70	127	952	Category 3 Major Hurricane
+9/27/2022	5:00:00 AM	22.30	-83.70	127	952	Category 3 Major Hurricane
+9/27/2022	8:00:00 AM	22.60	-83.60	127	950	Category 3 Major Hurricane
+9/27/2022	11:00:00 AM	23.00	-83.50	115	963	Category 3 Major Hurricane
+9/27/2022	12:00:00 PM	23.20	-83.50	115	963	Category 3 Major Hurricane
+9/27/2022	1:00:00 PM	23.30	-83.40	115	961	Category 3 Major Hurricane
+9/27/2022	2:00:00 PM	23.50	-83.30	121	955	Category 3 Major Hurricane
+9/27/2022	3:00:00 PM	23.70	-83.30	121	952	Category 3 Major Hurricane
+9/27/2022	4:00:00 PM	23.80	-83.20	121	952	Category 3 Major Hurricane
+9/27/2022	5:00:00 PM	24.00	-83.20	121	952	Category 3 Major Hurricane
+9/27/2022	6:00:00 PM	24.10	-83.10	121	952	Category 3 Major Hurricane
+9/27/2022	7:00:00 PM	24.30	-83.10	121	947	Category 3 Major Hurricane
+9/27/2022	8:00:00 PM	24.40	-83.00	121	947	Category 3 Major Hurricane
+9/27/2022	9:00:00 PM	24.50	-83.00	121	947	Category 3 Major Hurricane
+9/27/2022	10:00:00 PM	24.60	-82.90	121	947	Category 3 Major Hurricane
+9/27/2022	11:00:00 PM	24.90	-82.90	121	952	Category 3 Major Hurricane
+9/28/2022	12:00:00 AM	24.90	-82.90	121	953	Category 3 Major Hurricane
+9/28/2022	12:30:00 AM	25.00	-82.90	121	953	Category 3 Major Hurricane
+9/28/2022	1:00:00 AM	25.10	-83.00	121	953	Category 3 Major Hurricane
+9/28/2022	2:00:00 AM	25.20	-83.00	121	953	Category 3 Major Hurricane
+9/28/2022	3:00:00 AM	25.30	-82.90	121	953	Category 3 Major Hurricane
+9/28/2022	4:00:00 AM	25.50	-82.90	121	953	Category 3 Major Hurricane
+9/28/2022	5:00:00 AM	25.60	-82.90	138	942	Category 4 Major Hurricane
+9/28/2022	6:00:00 AM	25.80	-82.80	138	941	Category 4 Major Hurricane
+9/28/2022	6:35:00 AM	25.90	-82.80	155	936	Category 4 Major Hurricane
+9/28/2022	7:00:00 AM	25.90	-82.80	155	937	Category 4 Major Hurricane
+9/28/2022	8:00:00 AM	26.00	-82.70	155	937	Category 4 Major Hurricane
+9/28/2022	9:00:00 AM	26.10	-82.70	155	937	Category 4 Major Hurricane
+9/28/2022	10:00:00 AM	26.20	-82.70	155	937	Category 4 Major Hurricane
+9/28/2022	11:00:00 AM	26.30	-82.50	155	937	Category 4 Major Hurricane
+9/28/2022	12:00:00 PM	26.40	-82.50	155	937	Category 4 Major Hurricane
+9/28/2022	1:00:00 PM	26.40	-82.40	155	937	Category 4 Major Hurricane
+9/28/2022	2:00:00 PM	26.60	-82.30	155	937	Category 4 Major Hurricane
+9/28/2022	3:00:00 PM	26.60	-82.20	155	937	Category 4 Major Hurricane
+9/28/2022	3:10:00 PM	26.70	-82.20	150	940	Category 4 Major Hurricane
+9/28/2022	4:00:00 PM	26.80	-82.10	144	942	Category 4 Major Hurricane
+9/28/2022	4:35:00 PM	26.80	-82.00	144	942	Category 4 Major Hurricane
+9/28/2022	5:00:00 PM	26.90	-82.00	138	945	Category 4 Major Hurricane
+9/28/2022	6:00:00 PM	27.00	-81.90	132	951	Category 4 Major Hurricane
+9/28/2022	7:00:00 PM	27.10	-81.80	127	955	Category 3 Major Hurricane
+9/28/2022	8:00:00 PM	27.20	-81.70	115	960	Category 3 Major Hurricane
+9/28/2022	9:00:00 PM	27.30	-81.60	104	965	Category 2 Hurricane
+9/28/2022	10:00:00 PM	27.40	-81.50	98	968	Category 2 Hurricane
+9/28/2022	11:00:00 PM	27.50	-81.40	92	972	Category 1 Hurricane
+9/29/2022	2:00:00 AM	27.70	-81.10	75	980	Category 1 Hurricane
+9/29/2022	5:00:00 AM	28.00	-80.90	63	986	Tropical Storm
+9/29/2022	8:00:00 AM	28.50	-80.70	63	987	Tropical Storm
+9/29/2022	11:00:00 AM	28.70	-80.40	69	987	Tropical Storm
+9/29/2022	2:00:00 PM	28.90	-80.00	69	987	Tropical Storm
+9/29/2022	5:00:00 PM	29.30	-79.90	75	986	Category 1 Hurricane
+9/29/2022	8:00:00 PM	29.70	-79.40	75	986	Category 1 Hurricane
+9/29/2022	11:00:00 PM	30.20	-79.30	81	986	Category 1 Hurricane
+9/29/2022	11:15:00 PM	30.20	-79.30	86	984	Category 1 Hurricane
+9/30/2022	2:00:00 AM	30.30	-79.20	86	984	Category 1 Hurricane
+9/30/2022	5:00:00 AM	30.80	-79.10	86	984	Category 1 Hurricane
+9/30/2022	8:00:00 AM	31.40	-79.10	86	984	Category 1 Hurricane
+9/30/2022	11:00:00 AM	32.40	-79.00	86	980	Category 1 Hurricane
+9/30/2022	2:00:00 PM	33.20	-79.10	86	977	Category 1 Hurricane
+9/30/2022	2:15:00 PM	33.30	-79.20	86	977	Category 1 Hurricane
+9/30/2022	5:00:00 PM	33.90	-79.20	69	982	Post-Tropical Cyclone
+9/30/2022	8:00:00 PM	34.70	-79.30	58	990	Post-Tropical Cyclone
+9/30/2022	11:00:00 PM	35.30	-79.50	52	994	Post-Tropical Cyclone
+10/1/2022	2:00:00 AM	35.40	-79.70	40	998	Post-Tropical Cyclone
+10/1/2022	5:00:00 AM	35.70	-79.80	35	1001	Post-Tropical Cyclone
+10/1/2022	11:00:00 AM	36.40	-79.90	23	1006	Post-Tropical Cyclone
+10/1/2022	5:00:00 PM	36.80	-78.80	23	1008	Post-Tropical Cyclone
+10/1/2022	11:00:00 PM	37.30	-78.20	17	1010	Post-Tropical Cyclone

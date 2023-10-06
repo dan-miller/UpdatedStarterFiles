@@ -1,0 +1,126 @@
+Hurricane HUGO
+Storm Activity: 9/10/1989 - 9/24/1989
+9/10/1989	12:00:00 PM	13.20	-20.00	29	1010	Tropical Depression
+9/10/1989	3:00:00 PM	13.27	-20.89	29	1010	Tropical Depression
+9/10/1989	6:00:00 PM	13.30	-21.80	29	1010	Tropical Depression
+9/10/1989	9:00:00 PM	13.27	-22.75	31	1009	Tropical Depression
+9/11/1989	12:00:00 AM	13.20	-23.70	35	1009	Tropical Depression
+9/11/1989	3:00:00 AM	13.11	-24.61	35	1008	Tropical Depression
+9/11/1989	6:00:00 AM	13.00	-25.50	35	1007	Tropical Depression
+9/11/1989	9:00:00 AM	12.91	-26.39	35	1006	Tropical Depression
+9/11/1989	12:00:00 PM	12.80	-27.30	35	1005	Tropical Depression
+9/11/1989	3:00:00 PM	12.63	-28.25	37	1004	Tropical Depression
+9/11/1989	6:00:00 PM	12.50	-29.20	40	1003	Tropical Storm
+9/11/1989	9:00:00 PM	12.48	-30.10	43	1002	Tropical Storm
+9/12/1989	12:00:00 AM	12.50	-31.00	46	1002	Tropical Storm
+9/12/1989	3:00:00 AM	12.50	-31.94	48	1001	Tropical Storm
+9/12/1989	6:00:00 AM	12.50	-32.90	52	1000	Tropical Storm
+9/12/1989	9:00:00 AM	12.49	-33.85	52	999	Tropical Storm
+9/12/1989	12:00:00 PM	12.50	-34.80	52	998	Tropical Storm
+9/12/1989	3:00:00 PM	12.55	-35.78	54	997	Tropical Storm
+9/12/1989	6:00:00 PM	12.60	-36.70	58	996	Tropical Storm
+9/12/1989	9:00:00 PM	12.60	-37.46	60	995	Tropical Storm
+9/13/1989	12:00:00 AM	12.60	-38.20	63	994	Tropical Storm
+9/13/1989	3:00:00 AM	12.64	-39.08	63	993	Tropical Storm
+9/13/1989	6:00:00 AM	12.70	-40.00	63	992	Tropical Storm
+9/13/1989	9:00:00 AM	12.76	-40.91	66	991	Tropical Storm
+9/13/1989	12:00:00 PM	12.80	-41.80	69	990	Tropical Storm
+9/13/1989	3:00:00 PM	12.80	-42.68	71	988	Tropical Storm
+9/13/1989	6:00:00 PM	12.80	-43.50	75	987	Category 1 Hurricane
+9/13/1989	9:00:00 PM	12.84	-44.22	77	985	Category 1 Hurricane
+9/14/1989	12:00:00 AM	12.90	-44.90	81	984	Category 1 Hurricane
+9/14/1989	3:00:00 AM	12.94	-45.59	86	982	Category 1 Hurricane
+9/14/1989	6:00:00 AM	13.00	-46.30	92	980	Category 1 Hurricane
+9/14/1989	9:00:00 AM	13.08	-47.06	94	977	Category 1 Hurricane
+9/14/1989	12:00:00 PM	13.20	-47.80	98	975	Category 2 Hurricane
+9/14/1989	3:00:00 PM	13.40	-48.46	100	972	Category 2 Hurricane
+9/14/1989	6:00:00 PM	13.60	-49.10	104	970	Category 2 Hurricane
+9/14/1989	9:00:00 PM	13.71	-49.79	109	966	Category 2 Hurricane
+9/15/1989	12:00:00 AM	13.80	-50.50	115	962	Category 3 Major Hurricane
+9/15/1989	3:00:00 AM	13.90	-51.20	121	959	Category 3 Major Hurricane
+9/15/1989	6:00:00 AM	14.00	-51.90	127	957	Category 3 Major Hurricane
+9/15/1989	9:00:00 AM	14.08	-52.61	135	948	Category 4 Major Hurricane
+9/15/1989	12:00:00 PM	14.20	-53.30	144	940	Category 4 Major Hurricane
+9/15/1989	3:00:00 PM	14.40	-53.94	152	929	Category 4 Major Hurricane
+9/15/1989	6:00:00 PM	14.60	-54.60	161	918	Category 5 Major Hurricane
+9/15/1989	9:00:00 PM	14.71	-55.36	158	920	Category 5 Major Hurricane
+9/16/1989	12:00:00 AM	14.80	-56.10	155	923	Category 4 Major Hurricane
+9/16/1989	3:00:00 AM	14.94	-56.73	152	925	Category 4 Major Hurricane
+9/16/1989	6:00:00 AM	15.10	-57.30	150	927	Category 4 Major Hurricane
+9/16/1989	9:00:00 AM	15.24	-57.87	144	933	Category 4 Major Hurricane
+9/16/1989	12:00:00 PM	15.40	-58.40	138	940	Category 4 Major Hurricane
+9/16/1989	3:00:00 PM	15.60	-58.91	138	940	Category 4 Major Hurricane
+9/16/1989	6:00:00 PM	15.80	-59.40	138	941	Category 4 Major Hurricane
+9/16/1989	9:00:00 PM	15.96	-59.89	138	941	Category 4 Major Hurricane
+9/17/1989	12:00:00 AM	16.10	-60.40	138	941	Category 4 Major Hurricane
+9/17/1989	3:00:00 AM	16.18	-60.92	138	941	Category 4 Major Hurricane
+9/17/1989	5:00:00 AM	16.30	-61.30	138	941	Category 4 Major Hurricane
+9/17/1989	6:00:00 AM	16.40	-61.50	138	943	Category 4 Major Hurricane
+9/17/1989	9:00:00 AM	16.55	-62.03	140	946	Category 4 Major Hurricane
+9/17/1989	12:00:00 PM	16.60	-62.50	144	949	Category 4 Major Hurricane
+9/17/1989	3:00:00 PM	16.74	-63.03	144	947	Category 4 Major Hurricane
+9/17/1989	6:00:00 PM	16.90	-63.50	144	945	Category 4 Major Hurricane
+9/17/1989	9:00:00 PM	17.03	-63.82	146	939	Category 4 Major Hurricane
+9/18/1989	12:00:00 AM	17.20	-64.10	150	934	Category 4 Major Hurricane
+9/18/1989	3:00:00 AM	17.44	-64.44	144	937	Category 4 Major Hurricane
+9/18/1989	6:00:00 AM	17.70	-64.80	138	940	Category 4 Major Hurricane
+9/18/1989	9:00:00 AM	17.94	-65.16	132	942	Category 4 Major Hurricane
+9/18/1989	12:00:00 PM	18.20	-65.50	127	945	Category 3 Major Hurricane
+9/18/1989	1:00:00 PM	18.30	-65.60	127	946	Category 3 Major Hurricane
+9/18/1989	3:00:00 PM	18.59	-65.90	124	950	Category 3 Major Hurricane
+9/18/1989	6:00:00 PM	19.10	-66.40	121	958	Category 3 Major Hurricane
+9/18/1989	9:00:00 PM	19.40	-66.64	117	958	Category 3 Major Hurricane
+9/19/1989	12:00:00 AM	19.70	-66.80	115	959	Category 3 Major Hurricane
+9/19/1989	3:00:00 AM	20.18	-67.03	109	960	Category 2 Hurricane
+9/19/1989	6:00:00 AM	20.70	-67.30	104	962	Category 2 Hurricane
+9/19/1989	9:00:00 AM	21.15	-67.64	104	963	Category 2 Hurricane
+9/19/1989	12:00:00 PM	21.60	-68.00	104	964	Category 2 Hurricane
+9/19/1989	3:00:00 PM	22.10	-68.30	104	965	Category 2 Hurricane
+9/19/1989	6:00:00 PM	22.60	-68.60	104	966	Category 2 Hurricane
+9/19/1989	9:00:00 PM	23.06	-68.94	104	961	Category 2 Hurricane
+9/20/1989	12:00:00 AM	23.50	-69.30	104	957	Category 2 Hurricane
+9/20/1989	3:00:00 AM	23.96	-69.69	104	957	Category 2 Hurricane
+9/20/1989	6:00:00 AM	24.40	-70.10	104	957	Category 2 Hurricane
+9/20/1989	9:00:00 AM	24.78	-70.52	106	957	Category 2 Hurricane
+9/20/1989	12:00:00 PM	25.20	-71.00	109	958	Category 2 Hurricane
+9/20/1989	3:00:00 PM	25.74	-71.58	109	955	Category 2 Hurricane
+9/20/1989	6:00:00 PM	26.30	-72.20	109	953	Category 2 Hurricane
+9/20/1989	9:00:00 PM	26.77	-72.78	112	951	Category 3 Major Hurricane
+9/21/1989	12:00:00 AM	27.20	-73.40	115	950	Category 3 Major Hurricane
+9/21/1989	3:00:00 AM	27.59	-74.15	115	950	Category 3 Major Hurricane
+9/21/1989	6:00:00 AM	28.00	-74.90	115	950	Category 3 Major Hurricane
+9/21/1989	9:00:00 AM	28.47	-75.51	121	949	Category 3 Major Hurricane
+9/21/1989	12:00:00 PM	29.00	-76.10	127	948	Category 3 Major Hurricane
+9/21/1989	3:00:00 PM	29.56	-76.79	132	946	Category 4 Major Hurricane
+9/21/1989	6:00:00 PM	30.20	-77.50	138	944	Category 4 Major Hurricane
+9/21/1989	9:00:00 PM	30.91	-78.14	138	939	Category 4 Major Hurricane
+9/22/1989	12:00:00 AM	31.70	-78.80	138	935	Category 4 Major Hurricane
+9/22/1989	3:00:00 AM	32.49	-79.55	138	934	Category 4 Major Hurricane
+9/22/1989	4:00:00 AM	32.80	-79.80	138	934	Category 4 Major Hurricane
+9/22/1989	6:00:00 AM	33.50	-80.30	98	952	Category 2 Hurricane
+9/22/1989	9:00:00 AM	34.65	-81.09	81	963	Category 1 Hurricane
+9/22/1989	12:00:00 PM	35.90	-81.70	63	975	Tropical Storm
+9/22/1989	3:00:00 PM	37.10	-81.97	54	981	Tropical Storm
+9/22/1989	6:00:00 PM	38.50	-81.80	46	987	Tropical Storm
+9/22/1989	9:00:00 PM	40.25	-81.41	43	987	Tropical Storm
+9/23/1989	12:00:00 AM	42.20	-80.20	40	988	Extratropical
+9/23/1989	3:00:00 AM	44.16	-77.66	43	989	Extratropical
+9/23/1989	6:00:00 AM	46.00	-74.50	46	990	Extratropical
+9/23/1989	9:00:00 AM	47.63	-71.62	46	991	Extratropical
+9/23/1989	12:00:00 PM	49.00	-69.00	46	992	Extratropical
+9/23/1989	3:00:00 PM	50.14	-66.80	46	992	Extratropical
+9/23/1989	6:00:00 PM	51.00	-65.00	46	993	Extratropical
+9/23/1989	9:00:00 PM	51.61	-63.30	46	993	Extratropical
+9/24/1989	12:00:00 AM	52.00	-62.00	46	994	Extratropical
+9/24/1989	3:00:00 AM	52.28	-61.09	46	993	Extratropical
+9/24/1989	6:00:00 AM	52.50	-60.50	46	993	Extratropical
+9/24/1989	9:00:00 AM	52.75	-59.96	46	992	Extratropical
+9/24/1989	12:00:00 PM	53.00	-59.50	46	991	Extratropical
+9/24/1989	3:00:00 PM	53.25	-59.04	46	990	Extratropical
+9/24/1989	6:00:00 PM	53.50	-58.50	46	989	Extratropical
+9/24/1989	9:00:00 PM	53.63	-58.03	46	986	Extratropical
+9/25/1989	12:00:00 AM	54.00	-57.00	46	983	Extratropical
+9/25/1989	3:00:00 AM	54.89	-54.85	46	981	Extratropical
+9/25/1989	6:00:00 AM	56.00	-52.00	46	979	Extratropical
+9/25/1989	9:00:00 AM	57.05	-49.03	46	976	Extratropical
+9/25/1989	12:00:00 PM	58.00	-46.00	46	974	Extratropical

@@ -1,0 +1,152 @@
+Hurricane FLORENCE
+Storm Activity: 8/30/2018 - 9/18/2018
+Date		Time 		Lat 	Lon 	Wind(mph)	Pressure(mb)	Storm Type
+8/31/2018	3:00:00 AM	13.26	-20.80	35	1006	Tropical Low
+8/31/2018	6:00:00 AM	13.40	-21.40	35	1006	Tropical Low
+8/31/2018	9:00:00 AM	13.51	-22.00	35	1006	Tropical Low
+8/31/2018	12:00:00 PM	13.60	-22.60	35	1006	Tropical Low
+8/31/2018	3:00:00 PM	13.70	-23.21	35	1006	Tropical Low
+8/31/2018	6:00:00 PM	13.80	-23.80	35	1006	Tropical Depression
+8/31/2018	9:00:00 PM	13.89	-24.35	35	1006	Tropical Depression
+9/1/2018	12:00:00 AM	14.00	-24.90	35	1006	Tropical Depression
+9/1/2018	3:00:00 AM	14.13	-25.50	37	1005	Tropical Depression
+9/1/2018	6:00:00 AM	14.30	-26.10	40	1005	Tropical Storm
+9/1/2018	9:00:00 AM	14.53	-26.66	40	1004	Tropical Storm
+9/1/2018	12:00:00 PM	14.80	-27.20	40	1004	Tropical Storm
+9/1/2018	3:00:00 PM	15.10	-27.74	43	1003	Tropical Storm
+9/1/2018	6:00:00 PM	15.40	-28.30	46	1002	Tropical Storm
+9/1/2018	9:00:00 PM	15.66	-28.94	48	1001	Tropical Storm
+9/2/2018	12:00:00 AM	15.90	-29.60	52	1000	Tropical Storm
+9/2/2018	3:00:00 AM	16.16	-30.24	54	999	Tropical Storm
+9/2/2018	6:00:00 AM	16.40	-30.90	58	999	Tropical Storm
+9/2/2018	9:00:00 AM	16.62	-31.64	58	998	Tropical Storm
+9/2/2018	12:00:00 PM	16.80	-32.40	58	998	Tropical Storm
+9/2/2018	3:00:00 PM	16.94	-33.11	58	998	Tropical Storm
+9/2/2018	6:00:00 PM	17.10	-33.80	58	998	Tropical Storm
+9/2/2018	9:00:00 PM	17.35	-34.50	58	997	Tropical Storm
+9/3/2018	12:00:00 AM	17.60	-35.20	58	997	Tropical Storm
+9/3/2018	3:00:00 AM	17.76	-35.90	58	997	Tropical Storm
+9/3/2018	6:00:00 AM	17.90	-36.60	58	997	Tropical Storm
+9/3/2018	9:00:00 AM	18.06	-37.32	60	996	Tropical Storm
+9/3/2018	12:00:00 PM	18.20	-38.00	63	996	Tropical Storm
+9/3/2018	3:00:00 PM	18.30	-38.63	66	994	Tropical Storm
+9/3/2018	6:00:00 PM	18.40	-39.20	69	993	Tropical Storm
+9/3/2018	9:00:00 PM	18.53	-39.72	71	991	Tropical Storm
+9/4/2018	12:00:00 AM	18.70	-40.20	75	990	Category 1 Hurricane
+9/4/2018	3:00:00 AM	18.89	-40.72	75	989	Category 1 Hurricane
+9/4/2018	6:00:00 AM	19.10	-41.20	75	989	Category 1 Hurricane
+9/4/2018	9:00:00 AM	19.29	-41.62	77	987	Category 1 Hurricane
+9/4/2018	12:00:00 PM	19.50	-42.00	81	986	Category 1 Hurricane
+9/4/2018	3:00:00 PM	19.75	-42.36	83	984	Category 1 Hurricane
+9/4/2018	6:00:00 PM	20.00	-42.70	86	982	Category 1 Hurricane
+9/4/2018	9:00:00 PM	20.18	-43.04	92	978	Category 1 Hurricane
+9/5/2018	12:00:00 AM	20.40	-43.40	98	975	Category 2 Hurricane
+9/5/2018	3:00:00 AM	20.74	-43.83	104	971	Category 2 Hurricane
+9/5/2018	6:00:00 AM	21.10	-44.30	109	968	Category 2 Hurricane
+9/5/2018	9:00:00 AM	21.40	-44.74	115	964	Category 3 Major Hurricane
+9/5/2018	12:00:00 PM	21.70	-45.20	121	960	Category 3 Major Hurricane
+9/5/2018	3:00:00 PM	22.04	-45.71	127	955	Category 3 Major Hurricane
+9/5/2018	6:00:00 PM	22.40	-46.20	132	950	Category 4 Major Hurricane
+9/5/2018	9:00:00 PM	22.75	-46.57	132	950	Category 4 Major Hurricane
+9/6/2018	12:00:00 AM	23.10	-46.90	132	950	Category 4 Major Hurricane
+9/6/2018	3:00:00 AM	23.46	-47.26	127	954	Category 3 Major Hurricane
+9/6/2018	6:00:00 AM	23.80	-47.60	121	958	Category 3 Major Hurricane
+9/6/2018	9:00:00 AM	24.12	-47.89	112	964	Category 3 Major Hurricane
+9/6/2018	12:00:00 PM	24.40	-48.20	104	970	Category 2 Hurricane
+9/6/2018	3:00:00 PM	24.63	-48.60	94	975	Category 1 Hurricane
+9/6/2018	6:00:00 PM	24.80	-49.00	86	980	Category 1 Hurricane
+9/6/2018	9:00:00 PM	24.93	-49.31	77	985	Category 1 Hurricane
+9/7/2018	12:00:00 AM	25.00	-49.60	69	990	Tropical Storm
+9/7/2018	3:00:00 AM	25.02	-49.94	66	991	Tropical Storm
+9/7/2018	6:00:00 AM	25.00	-50.30	63	992	Tropical Storm
+9/7/2018	9:00:00 AM	24.96	-50.69	63	992	Tropical Storm
+9/7/2018	12:00:00 PM	24.90	-51.10	63	993	Tropical Storm
+9/7/2018	3:00:00 PM	24.85	-51.54	63	993	Tropical Storm
+9/7/2018	6:00:00 PM	24.80	-52.00	63	993	Tropical Storm
+9/7/2018	9:00:00 PM	24.75	-52.47	63	993	Tropical Storm
+9/8/2018	12:00:00 AM	24.70	-52.90	63	993	Tropical Storm
+9/8/2018	3:00:00 AM	24.64	-53.28	63	993	Tropical Storm
+9/8/2018	6:00:00 AM	24.60	-53.60	63	993	Tropical Storm
+9/8/2018	9:00:00 AM	24.59	-53.87	63	992	Tropical Storm
+9/8/2018	12:00:00 PM	24.60	-54.10	63	992	Tropical Storm
+9/8/2018	3:00:00 PM	24.61	-54.30	66	990	Tropical Storm
+9/8/2018	6:00:00 PM	24.60	-54.50	69	989	Tropical Storm
+9/8/2018	9:00:00 PM	24.56	-54.74	69	989	Tropical Storm
+9/9/2018	12:00:00 AM	24.50	-55.00	69	989	Tropical Storm
+9/9/2018	3:00:00 AM	24.44	-55.24	69	988	Tropical Storm
+9/9/2018	6:00:00 AM	24.40	-55.50	69	988	Tropical Storm
+9/9/2018	9:00:00 AM	24.39	-55.79	71	986	Tropical Storm
+9/9/2018	12:00:00 PM	24.40	-56.10	75	984	Category 1 Hurricane
+9/9/2018	3:00:00 PM	24.39	-56.40	77	981	Category 1 Hurricane
+9/9/2018	6:00:00 PM	24.40	-56.70	81	979	Category 1 Hurricane
+9/9/2018	9:00:00 PM	24.43	-56.96	86	976	Category 1 Hurricane
+9/10/2018	12:00:00 AM	24.50	-57.30	92	973	Category 1 Hurricane
+9/10/2018	3:00:00 AM	24.59	-57.81	98	970	Category 2 Hurricane
+9/10/2018	6:00:00 AM	24.70	-58.40	104	967	Category 2 Hurricane
+9/10/2018	9:00:00 AM	24.79	-58.95	112	960	Category 3 Major Hurricane
+9/10/2018	12:00:00 PM	24.90	-59.50	121	954	Category 3 Major Hurricane
+9/10/2018	3:00:00 PM	25.03	-60.04	129	947	Category 3 Major Hurricane
+9/10/2018	6:00:00 PM	25.20	-60.60	138	940	Category 4 Major Hurricane
+9/10/2018	9:00:00 PM	25.39	-61.18	135	942	Category 4 Major Hurricane
+9/11/2018	12:00:00 AM	25.60	-61.80	132	944	Category 4 Major Hurricane
+9/11/2018	3:00:00 AM	25.79	-62.48	132	947	Category 4 Major Hurricane
+9/11/2018	6:00:00 AM	26.00	-63.20	132	950	Category 4 Major Hurricane
+9/11/2018	9:00:00 AM	26.23	-63.93	138	948	Category 4 Major Hurricane
+9/11/2018	12:00:00 PM	26.50	-64.70	144	947	Category 4 Major Hurricane
+9/11/2018	3:00:00 PM	26.83	-65.54	146	942	Category 4 Major Hurricane
+9/11/2018	6:00:00 PM	27.20	-66.40	150	937	Category 4 Major Hurricane
+9/11/2018	9:00:00 PM	27.54	-67.27	144	940	Category 4 Major Hurricane
+9/12/2018	12:00:00 AM	27.90	-68.10	138	943	Category 4 Major Hurricane
+9/12/2018	3:00:00 AM	28.30	-68.84	135	944	Category 4 Major Hurricane
+9/12/2018	6:00:00 AM	28.70	-69.50	132	945	Category 4 Major Hurricane
+9/12/2018	9:00:00 AM	29.03	-70.12	132	945	Category 4 Major Hurricane
+9/12/2018	12:00:00 PM	29.40	-70.70	132	945	Category 4 Major Hurricane
+9/12/2018	3:00:00 PM	29.87	-71.29	129	947	Category 3 Major Hurricane
+9/12/2018	6:00:00 PM	30.40	-71.90	127	949	Category 3 Major Hurricane
+9/12/2018	9:00:00 PM	30.96	-72.56	123	952	Category 3 Major Hurricane
+9/13/2018	12:00:00 AM	31.50	-73.20	121	955	Category 3 Major Hurricane
+9/13/2018	3:00:00 AM	31.98	-73.73	117	955	Category 3 Major Hurricane
+9/13/2018	6:00:00 AM	32.40	-74.20	115	955	Category 3 Major Hurricane
+9/13/2018	9:00:00 AM	32.78	-74.66	112	954	Category 3 Major Hurricane
+9/13/2018	12:00:00 PM	33.10	-75.10	109	954	Category 2 Hurricane
+9/13/2018	3:00:00 PM	33.37	-75.58	106	953	Category 2 Hurricane
+9/13/2018	6:00:00 PM	33.60	-76.00	104	953	Category 2 Hurricane
+9/13/2018	9:00:00 PM	33.82	-76.27	104	952	Category 2 Hurricane
+9/14/2018	12:00:00 AM	34.00	-76.50	104	952	Category 2 Hurricane
+9/14/2018	3:00:00 AM	34.13	-76.84	100	952	Category 2 Hurricane
+9/14/2018	6:00:00 AM	34.20	-77.20	98	952	Category 2 Hurricane
+9/14/2018	9:00:00 AM	34.31	-77.53	94	954	Category 1 Hurricane
+9/14/2018	11:15:00 AM	34.20	-77.80	92	956	Category 1 Hurricane
+9/14/2018	12:00:00 PM	34.10	-77.90	92	957	Category 1 Hurricane
+9/14/2018	3:00:00 PM	33.95	-78.20	83	963	Category 1 Hurricane
+9/14/2018	6:00:00 PM	34.00	-78.40	75	969	Category 1 Hurricane
+9/14/2018	9:00:00 PM	33.96	-78.60	71	973	Hurricane
+9/15/2018	12:00:00 AM	33.90	-78.80	69	978	Tropical Storm
+9/15/2018	3:00:00 AM	33.80	-79.07	66	982	Tropical Storm
+9/15/2018	6:00:00 AM	33.70	-79.30	63	986	Tropical Storm
+9/15/2018	9:00:00 AM	33.63	-79.41	63	989	Tropical Storm
+9/15/2018	12:00:00 PM	33.60	-79.50	63	992	Tropical Storm
+9/15/2018	3:00:00 PM	33.59	-79.64	60	994	Tropical Storm
+9/15/2018	6:00:00 PM	33.60	-79.80	58	997	Tropical Storm
+9/15/2018	9:00:00 PM	33.60	-79.98	54	997	Tropical Storm
+9/16/2018	12:00:00 AM	33.60	-80.20	52	998	Tropical Storm
+9/16/2018	3:00:00 AM	33.60	-80.48	48	998	Tropical Storm
+9/16/2018	6:00:00 AM	33.60	-80.80	46	999	Tropical Storm
+9/16/2018	9:00:00 AM	33.56	-81.15	43	1000	Tropical Storm
+9/16/2018	12:00:00 PM	33.60	-81.50	40	1002	Tropical Storm
+9/16/2018	3:00:00 PM	33.78	-81.84	37	1004	Tropical Storm
+9/16/2018	6:00:00 PM	34.10	-82.10	35	1006	Tropical Depression
+9/16/2018	9:00:00 PM	34.48	-82.17	31	1006	Tropical Depression
+9/17/2018	12:00:00 AM	35.00	-82.20	29	1007	Tropical Depression
+9/17/2018	3:00:00 AM	35.66	-82.45	29	1007	Tropical Depression
+9/17/2018	6:00:00 AM	36.40	-82.60	29	1008	Tropical Depression
+9/17/2018	9:00:00 AM	37.13	-82.33	29	1008	Tropical Depression
+9/17/2018	12:00:00 PM	37.80	-82.00	29	1008	Extratropical
+9/17/2018	3:00:00 PM	38.35	-82.06	29	1008	Extratropical
+9/17/2018	6:00:00 PM	38.80	-82.00	29	1008	Extratropical
+9/17/2018	9:00:00 PM	39.09	-81.52	29	1008	Extratropical
+9/18/2018	12:00:00 AM	39.50	-80.50	29	1008	Extratropical
+9/18/2018	3:00:00 AM	40.39	-78.81	29	1007	Extratropical
+9/18/2018	6:00:00 AM	41.30	-76.80	29	1007	Extratropical
+9/18/2018	9:00:00 AM	41.87	-74.97	29	1006	Extratropical
+9/18/2018	12:00:00 PM	42.20	-73.30	29	1006	Extratropical

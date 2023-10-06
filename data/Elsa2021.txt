@@ -1,0 +1,83 @@
+Hurricane ELSA
+Storm Activity: 6/30/2021 - 7/10/2021
+Date		Time 		Lat 	Lon 	Wind(mph)	Pressure(mb)	Storm Type
+6/30/2021	6:00:00 PM	9.40	-42.80	35	1008	Tropical Depression
+6/30/2021	9:00:00 PM	9.34	-44.06	37	1007	Tropical Depression
+7/1/2021	12:00:00 AM	9.30	-45.30	40	1007	Tropical Storm
+7/1/2021	3:00:00 AM	9.30	-46.50	40	1006	Tropical Storm
+7/1/2021	6:00:00 AM	9.40	-47.70	40	1006	Tropical Storm
+7/1/2021	9:00:00 AM	9.60	-48.95	43	1005	Tropical Storm
+7/1/2021	12:00:00 PM	9.90	-50.20	46	1005	Tropical Storm
+7/1/2021	3:00:00 PM	10.28	-51.41	48	1004	Tropical Storm
+7/1/2021	6:00:00 PM	10.70	-52.60	52	1004	Tropical Storm
+7/1/2021	9:00:00 PM	11.10	-53.81	54	1003	Tropical Storm
+7/2/2021	12:00:00 AM	11.50	-55.00	58	1002	Tropical Storm
+7/2/2021	3:00:00 AM	11.91	-56.14	60	1001	Tropical Storm
+7/2/2021	6:00:00 AM	12.30	-57.30	63	1000	Tropical Storm
+7/2/2021	9:00:00 AM	12.65	-58.53	69	997	Tropical Storm
+7/2/2021	12:00:00 PM	13.00	-59.80	75	995	Category 1 Hurricane
+7/2/2021	3:00:00 PM	13.38	-61.09	81	993	Category 1 Hurricane
+7/2/2021	6:00:00 PM	13.80	-62.40	86	991	Category 1 Hurricane
+7/2/2021	9:00:00 PM	14.23	-63.74	83	993	Category 1 Hurricane
+7/3/2021	12:00:00 AM	14.70	-65.10	81	995	Category 1 Hurricane
+7/3/2021	3:00:00 AM	15.20	-66.52	77	996	Category 1 Hurricane
+7/3/2021	6:00:00 AM	15.70	-67.90	75	998	Category 1 Hurricane
+7/3/2021	9:00:00 AM	16.18	-69.15	71	999	Hurricane
+7/3/2021	12:00:00 PM	16.60	-70.30	69	1000	Tropical Storm
+7/3/2021	3:00:00 PM	16.94	-71.44	69	1001	Tropical Storm
+7/3/2021	6:00:00 PM	17.20	-72.50	69	1002	Tropical Storm
+7/3/2021	9:00:00 PM	17.41	-73.53	66	1003	Tropical Storm
+7/4/2021	12:00:00 AM	17.60	-74.40	63	1004	Tropical Storm
+7/4/2021	3:00:00 AM	17.79	-75.02	63	1005	Tropical Storm
+7/4/2021	6:00:00 AM	18.00	-75.50	63	1006	Tropical Storm
+7/4/2021	9:00:00 AM	18.22	-76.00	60	1006	Tropical Storm
+7/4/2021	12:00:00 PM	18.50	-76.50	58	1007	Tropical Storm
+7/4/2021	3:00:00 PM	18.88	-77.05	58	1007	Tropical Storm
+7/4/2021	6:00:00 PM	19.30	-77.60	58	1007	Tropical Storm
+7/4/2021	9:00:00 PM	19.71	-78.11	60	1006	Tropical Storm
+7/5/2021	12:00:00 AM	20.10	-78.60	63	1005	Tropical Storm
+7/5/2021	3:00:00 AM	20.41	-79.09	63	1005	Tropical Storm
+7/5/2021	6:00:00 AM	20.70	-79.60	63	1005	Tropical Storm
+7/5/2021	9:00:00 AM	20.99	-80.17	63	1005	Tropical Storm
+7/5/2021	12:00:00 PM	21.30	-80.70	63	1005	Tropical Storm
+7/5/2021	3:00:00 PM	21.63	-81.06	63	1005	Tropical Storm
+7/5/2021	6:00:00 PM	22.10	-81.50	63	1005	Tropical Storm
+7/5/2021	6:30:00 PM	22.20	-81.60	63	1005	Tropical Storm
+7/5/2021	9:00:00 PM	22.58	-81.89	60	1005	Tropical Storm
+7/6/2021	12:00:00 AM	22.90	-82.00	58	1005	Tropical Storm
+7/6/2021	3:00:00 AM	23.29	-82.21	58	1005	Tropical Storm
+7/6/2021	6:00:00 AM	23.70	-82.40	58	1005	Tropical Storm
+7/6/2021	9:00:00 AM	24.14	-82.57	60	1004	Tropical Storm
+7/6/2021	12:00:00 PM	24.60	-82.70	63	1003	Tropical Storm
+7/6/2021	3:00:00 PM	25.04	-82.80	66	1000	Tropical Storm
+7/6/2021	6:00:00 PM	25.50	-82.90	69	997	Tropical Storm
+7/6/2021	9:00:00 PM	26.03	-83.04	71	996	Tropical Storm
+7/7/2021	12:00:00 AM	26.60	-83.20	75	996	Category 1 Hurricane
+7/7/2021	3:00:00 AM	27.19	-83.36	69	997	Hurricane
+7/7/2021	6:00:00 AM	27.80	-83.50	63	998	Tropical Storm
+7/7/2021	9:00:00 AM	28.40	-83.60	63	998	Tropical Storm
+7/7/2021	12:00:00 PM	29.10	-83.60	63	999	Tropical Storm
+7/7/2021	2:30:00 PM	29.80	-83.50	63	1000	Tropical Storm
+7/7/2021	3:00:00 PM	29.90	-83.49	61	1000	Tropical Storm
+7/7/2021	6:00:00 PM	30.30	-83.40	52	1002	Tropical Storm
+7/7/2021	9:00:00 PM	30.86	-83.12	52	1003	Tropical Storm
+7/8/2021	12:00:00 AM	31.50	-82.70	52	1005	Tropical Storm
+7/8/2021	3:00:00 AM	32.13	-82.29	48	1005	Tropical Storm
+7/8/2021	6:00:00 AM	32.80	-81.80	46	1006	Tropical Storm
+7/8/2021	9:00:00 AM	33.50	-81.19	46	1006	Tropical Storm
+7/8/2021	12:00:00 PM	34.20	-80.50	46	1006	Tropical Storm
+7/8/2021	3:00:00 PM	34.86	-79.77	48	1005	Tropical Storm
+7/8/2021	6:00:00 PM	35.50	-79.00	52	1004	Tropical Storm
+7/8/2021	9:00:00 PM	36.13	-78.23	52	1003	Tropical Storm
+7/9/2021	12:00:00 AM	36.80	-77.40	52	1003	Tropical Storm
+7/9/2021	3:00:00 AM	37.55	-76.51	54	1002	Tropical Storm
+7/9/2021	6:00:00 AM	38.40	-75.50	58	1001	Tropical Storm
+7/9/2021	9:00:00 AM	39.40	-74.26	58	1000	Tropical Storm
+7/9/2021	12:00:00 PM	40.30	-73.10	58	999	Tropical Storm
+7/9/2021	3:00:00 PM	40.90	-72.30	58	999	Tropical Storm
+7/9/2021	4:30:00 PM	41.40	-71.70	58	999	Tropical Storm
+7/9/2021	6:00:00 PM	42.00	-71.00	52	999	Extratropical
+7/9/2021	9:00:00 PM	43.00	-69.70	48	998	Extratropical
+7/10/2021	12:00:00 AM	44.00	-68.30	46	997	Extratropical
+7/10/2021	3:00:00 AM	45.31	-66.51	43	998	Extratropical
+7/10/2021	6:00:00 AM	46.80	-64.40	40	999	Extratropical

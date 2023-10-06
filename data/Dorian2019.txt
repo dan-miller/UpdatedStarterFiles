@@ -1,0 +1,136 @@
+Hurricane DORIAN
+Storm Activity: 8/24/2019 - 9/9/2019
+Date		Time 		Lat 	Lon 	Wind(mph)	Pressure(mb)	Storm Type
+8/24/2019	6:00:00 AM	10.30	-46.40	29	1011	Tropical Depression
+8/24/2019	9:00:00 AM	10.34	-46.94	31	1010	Tropical Depression
+8/24/2019	12:00:00 PM	10.40	-47.50	35	1010	Tropical Depression
+8/24/2019	3:00:00 PM	10.49	-48.09	37	1009	Tropical Depression
+8/24/2019	6:00:00 PM	10.60	-48.70	40	1008	Tropical Storm
+8/24/2019	9:00:00 PM	10.70	-49.31	40	1008	Tropical Storm
+8/25/2019	12:00:00 AM	10.80	-49.90	40	1008	Tropical Storm
+8/25/2019	3:00:00 AM	10.90	-50.44	40	1008	Tropical Storm
+8/25/2019	6:00:00 AM	11.00	-51.00	40	1008	Tropical Storm
+8/25/2019	9:00:00 AM	11.10	-51.64	43	1007	Tropical Storm
+8/25/2019	12:00:00 PM	11.20	-52.30	46	1007	Tropical Storm
+8/25/2019	3:00:00 PM	11.30	-52.91	48	1007	Tropical Storm
+8/25/2019	6:00:00 PM	11.40	-53.50	52	1007	Tropical Storm
+8/25/2019	9:00:00 PM	11.49	-54.09	52	1007	Tropical Storm
+8/26/2019	12:00:00 AM	11.60	-54.70	52	1007	Tropical Storm
+8/26/2019	3:00:00 AM	11.74	-55.35	52	1006	Tropical Storm
+8/26/2019	6:00:00 AM	11.90	-56.00	52	1006	Tropical Storm
+8/26/2019	9:00:00 AM	12.04	-56.62	52	1006	Tropical Storm
+8/26/2019	12:00:00 PM	12.20	-57.20	52	1006	Tropical Storm
+8/26/2019	3:00:00 PM	12.39	-57.77	52	1006	Tropical Storm
+8/26/2019	6:00:00 PM	12.60	-58.30	52	1006	Tropical Storm
+8/26/2019	9:00:00 PM	12.80	-58.78	52	1005	Tropical Storm
+8/27/2019	12:00:00 AM	13.00	-59.20	52	1005	Tropical Storm
+8/27/2019	1:30:00 AM	13.10	-59.40	52	1005	Tropical Storm
+8/27/2019	3:00:00 AM	13.22	-59.65	52	1005	Tropical Storm
+8/27/2019	6:00:00 AM	13.50	-60.20	52	1005	Tropical Storm
+8/27/2019	9:00:00 AM	13.73	-60.52	52	1005	Tropical Storm
+8/27/2019	11:00:00 AM	14.00	-60.90	52	1005	Tropical Storm
+8/27/2019	12:00:00 PM	14.20	-61.20	52	1005	Tropical Storm
+8/27/2019	3:00:00 PM	14.66	-61.74	52	1004	Tropical Storm
+8/27/2019	6:00:00 PM	15.00	-62.00	52	1004	Tropical Storm
+8/27/2019	9:00:00 PM	15.36	-62.41	54	1003	Tropical Storm
+8/28/2019	12:00:00 AM	15.70	-62.80	58	1003	Tropical Storm
+8/28/2019	3:00:00 AM	16.03	-63.16	60	1002	Tropical Storm
+8/28/2019	6:00:00 AM	16.40	-63.50	63	1001	Tropical Storm
+8/28/2019	9:00:00 AM	16.84	-63.85	66	1000	Tropical Storm
+8/28/2019	12:00:00 PM	17.30	-64.20	69	999	Tropical Storm
+8/28/2019	3:00:00 PM	17.71	-64.52	74	995	Tropical Storm
+8/28/2019	3:30:00 PM	17.80	-64.60	75	995	Category 1 Hurricane
+8/28/2019	6:00:00 PM	18.40	-65.10	81	993	Category 1 Hurricane
+8/28/2019	9:00:00 PM	18.87	-65.47	83	991	Category 1 Hurricane
+8/29/2019	12:00:00 AM	19.20	-65.70	86	989	Category 1 Hurricane
+8/29/2019	3:00:00 AM	19.59	-66.00	86	988	Category 1 Hurricane
+8/29/2019	6:00:00 AM	20.00	-66.30	86	988	Category 1 Hurricane
+8/29/2019	9:00:00 AM	20.49	-66.61	86	987	Category 1 Hurricane
+8/29/2019	12:00:00 PM	21.00	-66.90	86	986	Category 1 Hurricane
+8/29/2019	3:00:00 PM	21.51	-67.15	86	984	Category 1 Hurricane
+8/29/2019	6:00:00 PM	22.00	-67.40	86	983	Category 1 Hurricane
+8/29/2019	9:00:00 PM	22.42	-67.68	89	980	Category 1 Hurricane
+8/30/2019	12:00:00 AM	22.80	-68.00	92	978	Category 1 Hurricane
+8/30/2019	3:00:00 AM	23.15	-68.39	98	978	Category 2 Hurricane
+8/30/2019	6:00:00 AM	23.50	-68.80	104	978	Category 2 Hurricane
+8/30/2019	9:00:00 AM	23.91	-69.15	106	975	Category 2 Hurricane
+8/30/2019	12:00:00 PM	24.30	-69.50	109	972	Category 2 Hurricane
+8/30/2019	3:00:00 PM	24.57	-69.89	112	970	Category 3 Major Hurricane
+8/30/2019	6:00:00 PM	24.80	-70.30	115	968	Category 3 Major Hurricane
+8/30/2019	9:00:00 PM	25.06	-70.69	123	958	Category 3 Major Hurricane
+8/31/2019	12:00:00 AM	25.30	-71.10	132	949	Category 4 Major Hurricane
+8/31/2019	3:00:00 AM	25.47	-71.59	135	948	Category 4 Major Hurricane
+8/31/2019	6:00:00 AM	25.60	-72.10	138	947	Category 4 Major Hurricane
+8/31/2019	9:00:00 AM	25.76	-72.55	140	945	Category 4 Major Hurricane
+8/31/2019	12:00:00 PM	25.90	-73.00	144	944	Category 4 Major Hurricane
+8/31/2019	3:00:00 PM	26.01	-73.52	146	943	Category 4 Major Hurricane
+8/31/2019	6:00:00 PM	26.10	-74.00	150	942	Category 4 Major Hurricane
+8/31/2019	9:00:00 PM	26.21	-74.36	152	940	Category 4 Major Hurricane
+9/1/2019	12:00:00 AM	26.30	-74.70	155	939	Category 4 Major Hurricane
+9/1/2019	3:00:00 AM	26.36	-75.14	161	936	Category 5 Major Hurricane
+9/1/2019	6:00:00 AM	26.40	-75.60	167	934	Category 5 Major Hurricane
+9/1/2019	9:00:00 AM	26.46	-76.07	173	930	Category 5 Major Hurricane
+9/1/2019	12:00:00 PM	26.50	-76.50	178	927	Category 5 Major Hurricane
+9/1/2019	3:00:00 PM	26.50	-76.85	182	916	Category 5 Major Hurricane
+9/1/2019	4:40:00 PM	26.50	-77.00	184	910	Category 5 Major Hurricane
+9/1/2019	6:00:00 PM	26.50	-77.10	184	910	Category 5 Major Hurricane
+9/1/2019	9:00:00 PM	26.55	-77.41	181	912	Category 5 Major Hurricane
+9/2/2019	12:00:00 AM	26.60	-77.70	178	914	Category 5 Major Hurricane
+9/2/2019	2:15:00 AM	26.60	-77.80	178	914	Category 5 Major Hurricane
+9/2/2019	3:00:00 AM	26.60	-77.84	176	914	Category 5 Major Hurricane
+9/2/2019	6:00:00 AM	26.60	-78.00	167	916	Category 5 Major Hurricane
+9/2/2019	9:00:00 AM	26.64	-78.17	161	921	Category 5 Major Hurricane
+9/2/2019	12:00:00 PM	26.70	-78.30	155	927	Category 4 Major Hurricane
+9/2/2019	3:00:00 PM	26.75	-78.37	150	932	Category 4 Major Hurricane
+9/2/2019	6:00:00 PM	26.80	-78.40	144	938	Category 4 Major Hurricane
+9/2/2019	9:00:00 PM	26.85	-78.46	138	941	Category 4 Major Hurricane
+9/3/2019	12:00:00 AM	26.90	-78.50	132	944	Category 4 Major Hurricane
+9/3/2019	3:00:00 AM	26.95	-78.51	127	947	Category 3 Major Hurricane
+9/3/2019	6:00:00 AM	27.00	-78.50	121	950	Category 3 Major Hurricane
+9/3/2019	9:00:00 AM	27.02	-78.49	117	952	Category 3 Major Hurricane
+9/3/2019	12:00:00 PM	27.10	-78.50	115	954	Category 3 Major Hurricane
+9/3/2019	3:00:00 PM	27.32	-78.54	112	956	Category 3 Major Hurricane
+9/3/2019	6:00:00 PM	27.60	-78.60	109	959	Category 2 Hurricane
+9/3/2019	9:00:00 PM	27.84	-78.68	106	959	Category 2 Hurricane
+9/4/2019	12:00:00 AM	28.10	-78.80	104	959	Category 2 Hurricane
+9/4/2019	3:00:00 AM	28.44	-78.98	104	961	Category 2 Hurricane
+9/4/2019	6:00:00 AM	28.80	-79.20	104	964	Category 2 Hurricane
+9/4/2019	9:00:00 AM	29.16	-79.42	104	963	Category 2 Hurricane
+9/4/2019	12:00:00 PM	29.50	-79.60	104	963	Category 2 Hurricane
+9/4/2019	3:00:00 PM	29.81	-79.68	106	961	Category 2 Hurricane
+9/4/2019	6:00:00 PM	30.10	-79.70	109	960	Category 2 Hurricane
+9/4/2019	9:00:00 PM	30.39	-79.72	112	957	Category 3 Major Hurricane
+9/5/2019	12:00:00 AM	30.70	-79.70	115	955	Category 3 Major Hurricane
+9/5/2019	3:00:00 AM	31.04	-79.68	115	956	Category 3 Major Hurricane
+9/5/2019	6:00:00 AM	31.40	-79.60	115	958	Category 3 Major Hurricane
+9/5/2019	9:00:00 AM	31.76	-79.42	115	958	Category 3 Major Hurricane
+9/5/2019	12:00:00 PM	32.10	-79.20	115	958	Category 3 Major Hurricane
+9/5/2019	3:00:00 PM	32.40	-79.09	112	958	Category 3 Major Hurricane
+9/5/2019	6:00:00 PM	32.70	-78.90	109	958	Category 2 Hurricane
+9/5/2019	9:00:00 PM	33.04	-78.45	106	957	Category 2 Hurricane
+9/6/2019	12:00:00 AM	33.40	-77.90	104	956	Category 2 Hurricane
+9/6/2019	3:00:00 AM	33.73	-77.41	104	956	Category 2 Hurricane
+9/6/2019	6:00:00 AM	34.10	-76.90	104	956	Category 2 Hurricane
+9/6/2019	9:00:00 AM	34.55	-76.31	100	956	Category 2 Hurricane
+9/6/2019	12:00:00 PM	35.10	-75.70	98	956	Category 2 Hurricane
+9/6/2019	12:30:00 PM	35.20	-75.60	98	956	Category 2 Hurricane
+9/6/2019	3:00:00 PM	35.67	-74.88	98	956	Category 2 Hurricane
+9/6/2019	6:00:00 PM	36.20	-73.70	98	956	Category 2 Hurricane
+9/6/2019	9:00:00 PM	36.77	-72.47	98	956	Category 2 Hurricane
+9/7/2019	12:00:00 AM	37.40	-71.20	98	956	Category 2 Hurricane
+9/7/2019	3:00:00 AM	38.10	-70.01	98	955	Category 2 Hurricane
+9/7/2019	6:00:00 AM	38.90	-68.90	98	955	Category 2 Hurricane
+9/7/2019	9:00:00 AM	39.81	-67.90	98	954	Category 2 Hurricane
+9/7/2019	12:00:00 PM	40.80	-66.90	98	954	Category 2 Hurricane
+9/7/2019	3:00:00 PM	41.76	-65.73	94	954	Category 1 Hurricane
+9/7/2019	6:00:00 PM	42.80	-64.60	92	954	Tropical Low
+9/7/2019	9:00:00 PM	43.97	-63.65	92	955	Tropical Low
+9/8/2019	12:00:00 AM	45.20	-62.90	92	956	Tropical Low
+9/8/2019	3:00:00 AM	46.44	-62.38	89	958	Tropical Low
+9/8/2019	6:00:00 AM	47.60	-61.90	86	960	Extratropical
+9/8/2019	9:00:00 AM	48.57	-61.26	83	961	Extratropical
+9/8/2019	12:00:00 PM	49.40	-60.40	81	962	Extratropical
+9/8/2019	3:00:00 PM	50.17	-59.27	75	964	Extratropical
+9/8/2019	6:00:00 PM	50.80	-57.90	69	966	Extratropical
+9/8/2019	9:00:00 PM	51.25	-56.39	63	973	Extratropical
+9/9/2019	12:00:00 AM	51.60	-54.80	58	980	Extratropical

@@ -1,0 +1,66 @@
+Hurricane IRENE
+Storm Activity: 10/12/1999 - 10/19/1999
+Date		Time 		Lat 	Lon 	Wind(mph)	Pressure(mb)	Storm Type
+10/12/1999	12:00:00 PM	15.90	-82.00	23	1006	Tropical Low
+10/12/1999	3:00:00 PM	16.18	-82.58	23	1006	Tropical Low
+10/12/1999	6:00:00 PM	16.40	-83.00	23	1006	Tropical Low
+10/12/1999	9:00:00 PM	16.54	-83.17	23	1005	Tropical Low
+10/13/1999	12:00:00 AM	16.70	-83.20	23	1005	Tropical Low
+10/13/1999	3:00:00 AM	16.93	-83.26	29	1004	Tropical Low
+10/13/1999	6:00:00 AM	17.30	-83.30	35	1004	Tropical Depression
+10/13/1999	9:00:00 AM	17.85	-83.34	37	1003	Tropical Depression
+10/13/1999	12:00:00 PM	18.50	-83.40	40	1003	Tropical Storm
+10/13/1999	3:00:00 PM	19.17	-83.51	46	1002	Tropical Storm
+10/13/1999	6:00:00 PM	19.80	-83.60	52	1001	Tropical Storm
+10/13/1999	9:00:00 PM	20.33	-83.62	58	1000	Tropical Storm
+10/14/1999	12:00:00 AM	20.70	-83.60	63	999	Tropical Storm
+10/14/1999	3:00:00 AM	20.89	-83.65	66	999	Tropical Storm
+10/14/1999	6:00:00 AM	21.00	-83.60	69	999	Tropical Storm
+10/14/1999	9:00:00 AM	21.09	-83.29	69	998	Tropical Storm
+10/14/1999	12:00:00 PM	21.30	-82.90	69	997	Tropical Storm
+10/14/1999	3:00:00 PM	21.71	-82.49	69	996	Tropical Storm
+10/14/1999	6:00:00 PM	22.40	-82.40	69	995	Tropical Storm
+10/14/1999	7:00:00 PM	22.70	-82.50	69	986	Tropical Storm
+10/14/1999	9:00:00 PM	23.01	-82.62	69	986	Tropical Storm
+10/15/1999	12:00:00 AM	23.10	-82.60	69	988	Tropical Storm
+10/15/1999	3:00:00 AM	23.44	-82.44	71	988	Tropical Storm
+10/15/1999	6:00:00 AM	23.80	-82.20	75	988	Category 1 Hurricane
+10/15/1999	9:00:00 AM	24.02	-82.11	75	987	Category 1 Hurricane
+10/15/1999	12:00:00 PM	24.40	-81.80	75	987	Category 1 Hurricane
+10/15/1999	1:00:00 PM	24.60	-81.60	75	987	Category 1 Hurricane
+10/15/1999	3:00:00 PM	24.86	-81.40	75	986	Category 1 Hurricane
+10/15/1999	6:00:00 PM	25.10	-81.30	75	986	Category 1 Hurricane
+10/15/1999	8:00:00 PM	25.30	-81.10	81	987	Category 1 Hurricane
+10/15/1999	9:00:00 PM	25.47	-80.98	78	986	Category 1 Hurricane
+10/16/1999	12:00:00 AM	26.10	-80.60	75	986	Category 1 Hurricane
+10/16/1999	3:00:00 AM	26.58	-80.35	75	985	Category 1 Hurricane
+10/16/1999	6:00:00 AM	27.00	-80.20	75	985	Category 1 Hurricane
+10/16/1999	9:00:00 AM	27.41	-80.13	75	983	Category 1 Hurricane
+10/16/1999	12:00:00 PM	27.80	-80.10	75	982	Category 1 Hurricane
+10/16/1999	3:00:00 PM	28.20	-80.00	75	983	Category 1 Hurricane
+10/16/1999	6:00:00 PM	28.60	-79.90	75	984	Category 1 Hurricane
+10/16/1999	9:00:00 PM	29.00	-79.84	75	984	Category 1 Hurricane
+10/17/1999	12:00:00 AM	29.40	-79.80	75	984	Category 1 Hurricane
+10/17/1999	3:00:00 AM	29.79	-79.80	75	984	Category 1 Hurricane
+10/17/1999	6:00:00 AM	30.20	-79.80	75	985	Category 1 Hurricane
+10/17/1999	9:00:00 AM	30.68	-79.80	75	984	Category 1 Hurricane
+10/17/1999	12:00:00 PM	31.20	-79.70	75	984	Category 1 Hurricane
+10/17/1999	3:00:00 PM	31.68	-79.46	77	981	Category 1 Hurricane
+10/17/1999	6:00:00 PM	32.20	-79.00	81	978	Category 1 Hurricane
+10/17/1999	9:00:00 PM	32.77	-78.31	86	977	Category 1 Hurricane
+10/18/1999	12:00:00 AM	33.40	-77.40	92	976	Category 1 Hurricane
+10/18/1999	3:00:00 AM	34.03	-76.37	100	970	Category 2 Hurricane
+10/18/1999	6:00:00 AM	34.80	-75.20	109	964	Category 2 Hurricane
+10/18/1999	7:56:00 AM	35.40	-74.40	109	958	Category 2 Hurricane
+10/18/1999	9:00:00 AM	35.75	-73.78	107	958	Category 2 Hurricane
+10/18/1999	12:00:00 PM	36.80	-71.60	104	960	Category 2 Hurricane
+10/18/1999	3:00:00 PM	37.85	-69.65	98	964	Category 2 Hurricane
+10/18/1999	6:00:00 PM	39.00	-67.40	92	968	Category 1 Hurricane
+10/18/1999	9:00:00 PM	40.14	-64.56	92	968	Category 1 Hurricane
+10/19/1999	12:00:00 AM	41.50	-61.00	92	968	Category 1 Hurricane
+10/19/1999	3:00:00 AM	43.20	-56.08	92	968	Category 1 Hurricane
+10/19/1999	6:00:00 AM	44.90	-51.50	92	968	Extratropical
+10/19/1999	9:00:00 AM	46.44	-49.22	92	968	Extratropical
+10/19/1999	12:00:00 PM	48.00	-48.00	92	968	Extratropical
+10/19/1999	3:00:00 PM	49.52	-46.64	92	968	Extratropical
+10/19/1999	6:00:00 PM	51.00	-45.00	92	968	Extratropical
